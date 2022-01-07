@@ -1211,11 +1211,11 @@ pre code {
 }
 .header-inner {
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 1100px;
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 1160px;
+    width: 1300px;
   }
 }
 @media (min-width: 1600px) {
@@ -1646,11 +1646,11 @@ pre code {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 1100px;
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 1160px;
+    width: 1300px;
   }
 }
 @media (min-width: 1600px) {
@@ -1844,8 +1844,8 @@ pre code {
 }
 .reading-progress-bar {
   --progress: 0;
-  background: #e0fbfc;
-  height: 5px;
+  background: #7b90d2;
+  height: 7px;
   position: fixed;
   z-index: 50;
   width: var(--progress);
@@ -2778,11 +2778,11 @@ mark.search-keyword {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  width: calc(100% - 20px);
+  width: 1100px;
 }
 @media (min-width: 1200px) {
   .main {
-    width: 1160px;
+    width: 1300px;
   }
 }
 @media (min-width: 1600px) {
