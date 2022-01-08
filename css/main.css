@@ -1215,7 +1215,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .header-inner {
-    width: 1300px;
+    width: 1160px;
   }
 }
 @media (min-width: 1600px) {
@@ -1650,7 +1650,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .footer-inner {
-    width: 1300px;
+    width: 1160px;
   }
 }
 @media (min-width: 1600px) {
@@ -1850,7 +1850,7 @@ pre code {
   z-index: 50;
   width: var(--progress);
   left: 0;
-  bottom: 0;
+  top: 0;
 }
 .rtl.post-body p,
 .rtl.post-body a,
@@ -2782,7 +2782,7 @@ mark.search-keyword {
 }
 @media (min-width: 1200px) {
   .main {
-    width: 1300px;
+    width: 1160px;
   }
 }
 @media (min-width: 1600px) {
@@ -3066,13 +3066,8 @@ body {
   background-position: 50% 50%;
 }
 .main-inner {
-  opacity: 0.9;
+  opacity: 0.95;
 }
 .archive .collection-title {
   display: none !important;
-}
-.main-inner {
-  margin-top: 60px;
-  padding: 60px 60px 60px 60px;
-  min-height: 500px;
 }
