@@ -146,16 +146,16 @@ social:
   E-Mail: li93011206@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/yourname || fab fa-twitter
-  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
+  Twitter: https://twitter.com/Capricornus0412 || fab fa-twitter
+  FB Page: https://www.facebook.com/Capricornus0112 || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
-  #YouTube: https://youtube.com/yourname || fab fa-youtube
-  #Instagram: https://instagram.com/yourname || fab fa-instagram
+  YouTube: https://youtube.com/channel/UC5q91WYOs9HdzIAouYCvenw/featured || fab fa-youtube
+  Instagram: https://instagram.com/laiyo_0112 || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
   enable: true
-  icons_only: false
+  icons_only: true
   transition: true
 
 # Blog rolls
@@ -383,10 +383,10 @@ reading_progress:
   # Available values: left | right
   start_at: left
   # Available values: top | bottom
-  position: bottom
+  position: top
   reversed: false
-  color: "#E0FBFC"
-  height: 5px
+  color: "#7B90D2"
+  height: 7px
 
 # Bookmark Support
 bookmark:
