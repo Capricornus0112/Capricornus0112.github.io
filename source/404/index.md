@@ -1,6 +1,6 @@
 ---
 title: 404 error
-date: 2021-12-21 00:50:43
+date: 2022-01-01
 type: categories
 comments: false
 permalink: /404.html
